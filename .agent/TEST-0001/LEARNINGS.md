@@ -1,0 +1,1 @@
+- 2026-10-21 [process] — Project has no AGENTS.md and no role memory/ dir; no project checks exist, so verification was running ./hello.sh.

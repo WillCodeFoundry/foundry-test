@@ -1,13 +1,14 @@
 # Progress
 
 ## Done
+- Added executable `hello.sh` at repo root (commit c9d645a on task/TEST-0001, pushed); prints "hello from the foundry".
+- PROGRESS.md and LEARNINGS.md exist on agent-notes.
+- Criteria met: hello.sh exists and prints the message; committed and pushed; notes files present.
 
 ## In progress
-- Starting: adding hello.sh.
 
 ## Next
-1. Create executable `hello.sh` at repo root printing "hello from the foundry".
-2. Run it, commit and push on task/TEST-0001.
-3. Update notes, push agent-notes.
 
 ## Blockers
+
+Status: ready for review
