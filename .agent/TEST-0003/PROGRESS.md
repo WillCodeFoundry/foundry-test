@@ -1,12 +1,14 @@
 # Progress
 
 ## Done
+- `goodbye.sh` added at the repo root (POSIX sh, executable), prints
+  "goodbye from the foundry". Verified by running `./goodbye.sh`. (02b09ea)
+- Committed and pushed on task/TEST-0003. Diff against main: only goodbye.sh.
 
 ## In progress
 
 ## Next
-1. Add executable `goodbye.sh` at the repo root that prints "goodbye from the foundry".
-2. Run it to verify the output; commit and push on task/TEST-0003.
-3. Mark ready for review.
 
 ## Blockers
+
+Status: ready for review
